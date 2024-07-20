@@ -1,7 +1,7 @@
-# Plateforme LMS - README
+# Plateforme - README
 
 ## Introduction
-Bienvenue sur notre plateforme LMS (Learning Management System), une solution complète pour la gestion de cours en ligne. Ce projet comprend plusieurs modules pour gérer les utilisateurs, les cours, les droits d'accès, les supports, les notifications, les actualités, les médias et les communications.
+Bienvenue sur notre plateforme, une solution complète pour la gestion de cours en ligne. Ce projet comprend plusieurs modules pour gérer les utilisateurs, les cours, les droits d'accès, les supports, les notifications, les actualités, les médias et les communications.
 
 ## Fonctionnalités
 
